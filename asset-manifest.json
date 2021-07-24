@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/glozzom-by-react/static/js/main.89d656e7.chunk.js",
+    "main.js.map": "/glozzom-by-react/static/js/main.89d656e7.chunk.js.map",
+    "runtime-main.js": "/glozzom-by-react/static/js/runtime-main.0c53c7a6.js",
+    "runtime-main.js.map": "/glozzom-by-react/static/js/runtime-main.0c53c7a6.js.map",
+    "static/js/2.86909410.chunk.js": "/glozzom-by-react/static/js/2.86909410.chunk.js",
+    "static/js/2.86909410.chunk.js.map": "/glozzom-by-react/static/js/2.86909410.chunk.js.map",
+    "index.html": "/glozzom-by-react/index.html",
+    "static/js/2.86909410.chunk.js.LICENSE.txt": "/glozzom-by-react/static/js/2.86909410.chunk.js.LICENSE.txt",
+    "static/media/bg1.b6b7a054.jpg": "/glozzom-by-react/static/media/bg1.b6b7a054.jpg",
+    "static/media/contact.a21593a2.jpg": "/glozzom-by-react/static/media/contact.a21593a2.jpg",
+    "static/media/image1.24b9f3e7.jpeg": "/glozzom-by-react/static/media/image1.24b9f3e7.jpeg",
+    "static/media/image2.536d0d77.jpeg": "/glozzom-by-react/static/media/image2.536d0d77.jpeg",
+    "static/media/image3.12218c7a.jpeg": "/glozzom-by-react/static/media/image3.12218c7a.jpeg",
+    "static/media/image4.5f5dbeb8.jpeg": "/glozzom-by-react/static/media/image4.5f5dbeb8.jpeg",
+    "static/media/image5.84b7aa44.jpeg": "/glozzom-by-react/static/media/image5.84b7aa44.jpeg",
+    "static/media/image6.018ebbb9.jpeg": "/glozzom-by-react/static/media/image6.018ebbb9.jpeg",
+    "static/media/pc.f7022979.jpeg": "/glozzom-by-react/static/media/pc.f7022979.jpeg",
+    "static/media/people.396fc323.jpg": "/glozzom-by-react/static/media/people.396fc323.jpg",
+    "static/media/people1.c49b3e3a.jpg": "/glozzom-by-react/static/media/people1.c49b3e3a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c53c7a6.js",
+    "static/js/2.86909410.chunk.js",
+    "static/js/main.89d656e7.chunk.js"
+  ]
+}
